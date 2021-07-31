@@ -25,3 +25,4 @@ width=50 />](https://getbootstrap.com/) [<img src="https://static.thenounproject
 width=50 />](https://reactjs.org/) [<img src=https://img.icons8.com/color/452/nodejs.png
 width=50/>](https://nodejs.org/en/)
 [<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/512px-PyTorch_logo_icon.svg.png width=50/>](https://pytorch.org/)
+[<img src=https://upload.wikimedia.org/wikipedia/commons/c/cb/Python_for_iOS_App_Icon.png width=50/>](https://www.python.org/)
