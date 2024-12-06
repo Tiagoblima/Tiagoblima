@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 I’m currently working at Truewind
+- 🔭 I’m currently working at CESAR
 - 🌱 I’m currently learning the development of Deep Learning models, Innovation on Tecnoglogy and Software development Quality.
 - 👯 I’m looking to collaborate on the development of web and AI applications.
 - 📫 How to reach me: https://www.linkedin.com/in/tiago-de-lima-56607b86/
