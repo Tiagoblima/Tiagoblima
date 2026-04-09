@@ -19,5 +19,4 @@ About me:
 <div/>
 
 
-[<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/512px-PyTorch_logo_icon.svg.png width=50/>](https://pytorch.org/)
 [<img src=https://upload.wikimedia.org/wikipedia/commons/c/cb/Python_for_iOS_App_Icon.png width=50/>](https://www.python.org/)
